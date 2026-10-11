@@ -24,3 +24,7 @@ data/combined_context/CAS_National_Context_enriched.csv
 
 Full research project:
 https://github.com/TasfiaMohtasim/nz-road-crash-severity-prediction
+
+## Live App
+
+https://nz-road-crash-severity-app.streamlit.app/
